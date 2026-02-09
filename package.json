@@ -1,0 +1,11 @@
+{
+  "name": "jest-workshop",
+  "version": "1.0.0",
+  "description": "Standalone graded Jest workshop",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
