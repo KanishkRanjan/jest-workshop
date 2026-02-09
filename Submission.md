@@ -38,10 +38,10 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes.   
-- GitHub Actions Run URL: (Will be generated upon push)
+- GitHub Actions Run URL: https://github.com/KanishkRanjan/jest-workshop/actions/runs/21825826626/job/62970414598
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
-
+- I learned how Jest catches bugs in edge cases and how GitHub Actions automatically checks my code every time I push.
